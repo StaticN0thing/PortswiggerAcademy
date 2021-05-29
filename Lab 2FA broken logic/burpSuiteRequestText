@@ -1,0 +1,15 @@
+POST /login2 HTTP/1.1
+Host: accd1fb31ef6bab280e68639004f00c4.web-security-academy.net
+User-Agent: ********
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 13
+Origin: https://accd1fb31ef6bab280e68639004f00c4.web-security-academy.net
+Connection: close
+Referer: https://accd1fb31ef6bab280e68639004f00c4.web-security-academy.net/login2
+Cookie: session=Y3s93Vm06E4Cbw1GMIAcHw51vlI6tXEi; verify=wiener
+Upgrade-Insecure-Requests: 1
+
+mfa-code=1234
